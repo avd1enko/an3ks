@@ -1,2 +1,19 @@
 ## 👋 Hi, I'm Danya
-I'm an **ITMO** student, passionate about building useful mobile apps with **Swift** and SwiftUI. <br>  Currently working on an iOS app that provides sports statistics as my pet-project <br> [**Check out the repo →**](https://github.com/an3ks/MatchDesk)
+I'm an **ITMO** student, passionate about studying tech and building cool stuff :) 
+
+### I've worked with:
+- iOS developement with SwiftUI [**Check out the repo →**](https://github.com/avd1enko/MatchDesk)
+- Python automatization [**Check out the repo →**](https://github.com/avd1enko/CLI-log-parser)
+- Frotnend (HTML, CSS, JS *a bit*)
+
+### I'm familiar with:
+- Python, Swift, HTML, CSS
+- CLI tools and shell scripting
+- Docker, Nginx
+- API
+- Firebase
+
+### Worth mentioning:
+- English C1 level
+- DEveloping in team experience
+- Always eager to learn and improve
